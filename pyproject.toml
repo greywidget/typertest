@@ -1,0 +1,42 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "typertest"
+version = "0.0.1"
+authors = [
+  { name="Craig Richards", email="craig@greywidget.co.uk" },
+]
+description = "playing with typer"
+readme = "README.md"
+requires-python = ">=3.12"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+dependencies = [
+  "typer[all]",
+]
+[project.optional-dependencies]
+dev = [
+]
+
+[project.urls]
+"Homepage" = "https://github.com/greywidget/typertest"
+"Bug Tracker" = "https://github.com/greywidget/typertest/issues"
+
+[tool.mypy]
+python_version = "3.12"
+warn_unused_configs = true
+disallow_incomplete_defs = true
+ignore_missing_imports = true
+
+
+[tool.ruff]
+line-length = 88
+
+[tool.ruff.lint]
+select = ["E", "F", "I"]
+ignore = ["E501"]
