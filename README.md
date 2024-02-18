@@ -7,4 +7,4 @@ For reference, here is the [typer documentation](https://pypi.org/project/typer/
 Here are the additional commands I ran:
 - `uv pip compile -v -o requirements.txt pyproject.toml --strip-extras` to create requirements file
 - `uv pip sync requirements.txt` to install requirements
-- `uv pip freeze --help` to show installed packages
+- `uv pip freeze` to show installed packages

@@ -18,6 +18,7 @@ classifiers = [
 ]
 dependencies = [
   "typer[all]",
+  "typer-cli",
 ]
 [project.optional-dependencies]
 dev = [
