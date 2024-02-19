@@ -6,17 +6,21 @@ colorama==0.4.6
     # via
     #   click
     #   typer
-    #   typer-cli
-commonmark==0.9.1
+importlib-metadata==1.7.0
+    # via typer-cli
+markdown-it-py==3.0.0
     # via rich
+mdurl==0.1.2
+    # via markdown-it-py
 pygments==2.17.2
     # via rich
-rich==12.6.0
+rich==13.7.0
     # via typer
-shellingham==1.4.0
-    # via
-    #   typer
-    #   typer-cli
-typer==0.7.0
-    # via typer-cli
-typer-cli==0.0.13
+shellingham==1.5.4
+    # via typer
+typer==0.9.0
+typer-cli==0.0.1
+typing-extensions==4.9.0
+    # via typer
+zipp==3.17.0
+    # via importlib-metadata

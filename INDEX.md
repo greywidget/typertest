@@ -1,5 +1,5 @@
 # Index of the Example scripts
-- [The simplest Typer file (no parms)](example_01.py)
+- [The simplest Typer file (no arguments)](example_01.py)
 - [With 2 CLI arguments](example_02.py)
 - [With CLI arguments and CLI options](example_03.py)
 - [CLI option with a value](example_04.py)
@@ -9,4 +9,6 @@
 - [Exiting a CLI program](example_08.py)
 - [Exiting a CLI program with an Error](example_09.py)
 - [Exiting a CLI program with ABORT](example_10.py)
+- [Alternative CLI argument declaration](example_11.py)
+- [Optional CLI argument](example_12.py)
 
