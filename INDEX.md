@@ -13,4 +13,5 @@
 - [Optional CLI argument](example_12.py)
 - [Optional CLI argument with a Static default value](example_13.py)
 - [Optional CLI argument with a Dynamic default value](example_14.py)
+- [CLI argument with Help](example_15.py)
 
