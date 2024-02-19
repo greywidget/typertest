@@ -11,4 +11,5 @@
 - [Exiting a CLI program with ABORT](example_10.py)
 - [Alternative CLI argument declaration](example_11.py)
 - [Optional CLI argument](example_12.py)
+- [Optional CLI argument with a (static) default value](example_13.py)
 
