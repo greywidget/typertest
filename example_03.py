@@ -1,4 +1,4 @@
-"""Another example based on https://typer.tiangolo.com/tutorial/"""
+"""Another example based on https://typer.tiangolo.com/tutorial/first-steps/"""
 
 # This time with Arguments and Options
 # CLI options begin with -- so they are named, therefore order for these

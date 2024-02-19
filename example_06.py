@@ -2,7 +2,7 @@ import typer
 from rich.console import Console
 from rich.table import Table
 
-"""Another example based on https://typer.tiangolo.com/tutorial/"""
+"""Another example based on https://typer.tiangolo.com/tutorial/printing/"""
 
 # This example has some basic "rich" stuff
 

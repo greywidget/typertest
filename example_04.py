@@ -1,6 +1,6 @@
 import typer
 
-"""Another example based on https://typer.tiangolo.com/tutorial/"""
+"""Another example based on https://typer.tiangolo.com/tutorial/first-steps/"""
 
 # This example shows a CLI option with a value
 # Add lastname as a CLI option, give it a default value of ""

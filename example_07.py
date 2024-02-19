@@ -1,7 +1,7 @@
 import typer
 from rich.console import Console
 
-"""Another example based on https://typer.tiangolo.com/tutorial/"""
+"""Another example based on https://typer.tiangolo.com/tutorial/printing/"""
 
 # Looking at "standard error" output
 
