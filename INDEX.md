@@ -1,14 +1,18 @@
 # Index of the Example scripts
+### Introduction
 - [The simplest Typer file (no arguments)](example_01.py)
 - [With 2 CLI arguments](example_02.py)
 - [With CLI arguments and CLI options](example_03.py)
 - [CLI option with a value](example_04.py)
 - [Document your app](example_05.py)
+### Some Rich stuff
 - [A table with Rich](example_06.py)
 - [Output to standard error](example_07.py)
+### Exiting the program
 - [Exiting a CLI program](example_08.py)
 - [Exiting a CLI program with an Error](example_09.py)
 - [Exiting a CLI program with ABORT](example_10.py)
+### CLI Arguments
 - [Alternative CLI argument declaration](example_11.py)
 - [Optional CLI argument](example_12.py)
 - [Optional CLI argument with a Static default value](example_13.py)
@@ -23,3 +27,5 @@
 - [CLI argument - reading an environment variable](example_22.py)
 - [CLI argument - multiple environment variables](example_23.py)
 - [CLI argument - hide environment variable from help text](example_24.py)
+### CLI Options
+- [CLI option with Help](example_25.py)
