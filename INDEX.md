@@ -33,3 +33,4 @@ There examples are from the [excellent Typer documentation](https://typer.tiango
 - [CLI option with Help](example_25.py)
 - [CLI option with Help Panels (via `rich`)](example_26.py)
 - [CLI option with Hidden Default](example_27.py)
+- [CLI option - make it Required](example_28.py)
