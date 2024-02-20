@@ -22,3 +22,4 @@
 - [CLI argument - you can hide it](example_21.py)
 - [CLI argument - reading an environment variable](example_22.py)
 - [CLI argument - multiple environment variables](example_23.py)
+- [CLI argument - hide environment variable from help text](example_24.py)
