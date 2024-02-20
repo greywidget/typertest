@@ -16,3 +16,4 @@
 - [CLI argument with Help](example_15.py)
 - [CLI argument with Help and Defaults](example_16.py)
 - [CLI argument with Help and Hidden Default](example_17.py)
+- [CLI argument with Help and Custom String Default](example_18.py)
