@@ -18,4 +18,5 @@
 - [CLI argument with Help and Hidden Default](example_17.py)
 - [CLI argument with Help and Custom String Default](example_18.py)
 - [CLI argument with Help and Custom Help Name (`metavar`)](example_19.py)
-- [CLI argument with  Custom Help Panels (via `rich`)](example_20.py)
+- [CLI argument with Custom Help Panels (via `rich`)](example_20.py)
+- [CLI argument - you can hide it](example_21.py)
