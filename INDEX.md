@@ -20,4 +20,5 @@
 - [CLI argument with Help and Custom Help Name (`metavar`)](example_19.py)
 - [CLI argument with Custom Help Panels (via `rich`)](example_20.py)
 - [CLI argument - you can hide it](example_21.py)
-- [CLI argument - Reading an environment variable](example_22.py)
+- [CLI argument - reading an environment variable](example_22.py)
+- [CLI argument - multiple environment variables](example_23.py)
