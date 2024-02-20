@@ -1,7 +1,7 @@
 import typer
 from typing_extensions import Annotated
 
-"""Another example based on https://typer.tiangolo.com/tutorial/arguments/default/"""
+"""Another example based on https://typer.tiangolo.com/tutorial/arguments/help/"""
 
 # CLI arguments with Help and Defaults
 

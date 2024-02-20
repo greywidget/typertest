@@ -3,10 +3,14 @@ from typing_extensions import Annotated
 
 """Another example based on https://typer.tiangolo.com/tutorial/arguments/help/"""
 
-# CLI arguments with Help (this example also has docstring help)
+# CLI arguments with Hidden Default
 
 
-def main(name: Annotated[str, typer.Argument(help="The name of the user to greet")]):
+def main(
+    name: Annotated[
+        str, typer.Argument(help="Who to greet", show_default=False)
+    ] = "World",
+):
     """
     Say hi to NAME very gently, like Dirk.
     """
