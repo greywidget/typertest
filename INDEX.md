@@ -1,5 +1,7 @@
 # Index of the Example scripts
 ### Introduction
+There examples are from the [excellent Typer documentation](https://typer.tiangolo.com).  
+
 - [The simplest Typer file (no arguments)](example_01.py)
 - [With 2 CLI arguments](example_02.py)
 - [With CLI arguments and CLI options](example_03.py)
@@ -22,10 +24,11 @@
 - [CLI argument with Help and Hidden Default](example_17.py)
 - [CLI argument with Help and Custom String Default](example_18.py)
 - [CLI argument with Help and Custom Help Name (`metavar`)](example_19.py)
-- [CLI argument with Custom Help Panels (via `rich`)](example_20.py)
+- [CLI argument with Help Panels (via `rich`)](example_20.py)
 - [CLI argument - you can hide it](example_21.py)
 - [CLI argument - reading an environment variable](example_22.py)
 - [CLI argument - multiple environment variables](example_23.py)
 - [CLI argument - hide environment variable from help text](example_24.py)
 ### CLI Options
 - [CLI option with Help](example_25.py)
+- [CLI option with Help Panels (via `rich`)](example_26.py)
