@@ -42,3 +42,4 @@ There examples are from the [excellent Typer documentation](https://typer.tiango
 - [CLI option with Custom Name and Short Name](example_34.py)
 - [CLI option with Short Name Only](example_35.py)
 - [CLI option with Custom Name and Default Name](example_36.py)
+- [CLI option with multiple Custom Names Together](example_37.py)
