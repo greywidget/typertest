@@ -36,3 +36,4 @@ There examples are from the [excellent Typer documentation](https://typer.tiango
 - [CLI option - make it Required](example_28.py)
 - [CLI option Prompt](example_29.py)
 - [CLI option with Customised Prompt](example_30.py)
+- [CLI option with Confirmation Prompt](example_31.py)
