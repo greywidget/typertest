@@ -40,3 +40,4 @@ There examples are from the [excellent Typer documentation](https://typer.tiango
 - [CLI option with Password (hidden) Prompt](example_32.py)
 - [CLI option with Custom Name](example_33.py)
 - [CLI option with Custom Name and Short Name](example_34.py)
+- [CLI option with Short Name Only](example_35.py)
