@@ -37,3 +37,4 @@ There examples are from the [excellent Typer documentation](https://typer.tiango
 - [CLI option Prompt](example_29.py)
 - [CLI option with Customised Prompt](example_30.py)
 - [CLI option with Confirmation Prompt](example_31.py)
+- [CLI option with Password Prompt](example_32.py)
