@@ -5,6 +5,7 @@ from typing_extensions import Annotated
 
 # CLI Option Callback
 # Register a Callback function to do some validation
+# (You can also register Callbacks for `typer.Argument`)
 
 
 def name_callback(value: str):
