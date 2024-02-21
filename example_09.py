@@ -1,6 +1,6 @@
 import typer
 
-"""Another example based on https://typer.tiangolo.com/tutorial/terminating/"""
+"""See https://typer.tiangolo.com/tutorial/terminating/"""
 
 # Exiting a CLI program with an Error
 # In Powershell you can check the Exit Code by typing $LASTEXITCODE (1=Error)

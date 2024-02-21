@@ -1,7 +1,7 @@
 import typer
 from typing_extensions import Annotated
 
-"""Another example based on https://typer.tiangolo.com/tutorial/options/password/"""
+"""See https://typer.tiangolo.com/tutorial/options/password/"""
 
 # CLI Option with Password Prompt
 # (Just specify `hide_input=True`)

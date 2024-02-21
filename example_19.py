@@ -1,7 +1,7 @@
 import typer
 from typing_extensions import Annotated
 
-"""Another example based on https://typer.tiangolo.com/tutorial/arguments/help/"""
+"""See https://typer.tiangolo.com/tutorial/arguments/help/"""
 
 # When you declare `name: str`, it is shown in the Help Text as:
 # [NAME]

@@ -1,7 +1,7 @@
 import typer
 from typing_extensions import Annotated
 
-"""Another example based on https://typer.tiangolo.com/tutorial/options/name/"""
+"""See https://typer.tiangolo.com/tutorial/options/name/"""
 
 # CLI Option with a Custom Name
 # By default Typer creates the CLI option name from the function parameter

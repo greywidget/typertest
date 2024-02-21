@@ -1,7 +1,7 @@
 import typer
 from typing_extensions import Annotated
 
-"""Another example based on https://typer.tiangolo.com/tutorial/arguments/help/"""
+"""See https://typer.tiangolo.com/tutorial/arguments/help/"""
 
 # You can pass a Custom String to be shown as the default
 # (instead of the actual default being shown)

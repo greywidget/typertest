@@ -1,7 +1,7 @@
 import typer
 from typing_extensions import Annotated
 
-"""Another example based on https://typer.tiangolo.com/tutorial/options/help/"""
+"""See https://typer.tiangolo.com/tutorial/options/help/"""
 
 # CLI option with Hidden Default
 # The default value (Wade Wilson) does not show in the help text

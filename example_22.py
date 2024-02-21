@@ -1,7 +1,7 @@
 import typer
 from typing_extensions import Annotated
 
-"""Another example based on https://typer.tiangolo.com/tutorial/arguments/envvar/"""
+"""See https://typer.tiangolo.com/tutorial/arguments/envvar/"""
 
 # You can read values from Environmental Variables. In the example below:
 # 1. If an argument is passed, `name` gets that value.

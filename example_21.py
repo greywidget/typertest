@@ -1,7 +1,7 @@
 import typer
 from typing_extensions import Annotated
 
-"""Another example based on https://typer.tiangolo.com/tutorial/arguments/help/"""
+"""See https://typer.tiangolo.com/tutorial/arguments/help/"""
 
 # It might not be a good idea, but you can Hide a CLI argument from the
 # Help Text. This causes it to not show up in the `Arguments` section

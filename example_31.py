@@ -1,7 +1,7 @@
 import typer
 from typing_extensions import Annotated
 
-"""Another example based on https://typer.tiangolo.com/tutorial/options/prompt/"""
+"""See https://typer.tiangolo.com/tutorial/options/prompt/"""
 
 # CLI Option with Confirmation Prompt
 

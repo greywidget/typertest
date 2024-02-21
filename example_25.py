@@ -1,7 +1,7 @@
 import typer
 from typing_extensions import Annotated
 
-"""Another example based on https://typer.tiangolo.com/tutorial/options/help/"""
+"""See https://typer.tiangolo.com/tutorial/options/help/"""
 
 # CLI option with Help
 # Just use `typer.Option()` instead of `typer.Argument()` inside `Annotated`

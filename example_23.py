@@ -1,7 +1,7 @@
 import typer
 from typing_extensions import Annotated
 
-"""Another example based on https://typer.tiangolo.com/tutorial/arguments/envvar/"""
+"""See https://typer.tiangolo.com/tutorial/arguments/envvar/"""
 
 # You can read multiple environment variables.
 # Pass them in a list and they will be checked in order until one if found.

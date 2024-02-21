@@ -1,7 +1,7 @@
 import typer
 from typing_extensions import Annotated
 
-"""Another example based on https://typer.tiangolo.com/tutorial/arguments/help/"""
+"""See https://typer.tiangolo.com/tutorial/arguments/help/"""
 
 # If you have installed Rich, you can use `rich_help_panel` to show different
 # arguments in different panels

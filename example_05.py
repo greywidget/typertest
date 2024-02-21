@@ -1,6 +1,6 @@
 import typer
 
-"""Another example based on https://typer.tiangolo.com/tutorial/first-steps/"""
+"""See https://typer.tiangolo.com/tutorial/first-steps/"""
 
 # This example shows how you document your app
 # Just add a docstring to your function and it will be used in the help text

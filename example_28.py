@@ -1,7 +1,7 @@
 import typer
 from typing_extensions import Annotated
 
-"""Another example based on https://typer.tiangolo.com/tutorial/options/required/"""
+"""See https://typer.tiangolo.com/tutorial/options/required/"""
 
 # CLI option are optional by default. But you can make them required
 # Just leave the parameter without a default value:

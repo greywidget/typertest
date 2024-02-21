@@ -1,7 +1,7 @@
 import typer
 from typing_extensions import Annotated
 
-"""Another example based on https://typer.tiangolo.com/tutorial/options/prompt/"""
+"""See https://typer.tiangolo.com/tutorial/options/prompt/"""
 
 # CLI Option Prompt
 # I was curious to see if you could prompt an Argument eg:

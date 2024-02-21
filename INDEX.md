@@ -43,3 +43,4 @@ There examples are from the [excellent Typer documentation](https://typer.tiango
 - [CLI option with Short Name Only](example_35.py)
 - [CLI option with Short Name and Default Name](example_36.py)
 - [CLI option with multiple Short Names Together](example_37.py)
+- [CLI option with Callback for validation](example_38.py)

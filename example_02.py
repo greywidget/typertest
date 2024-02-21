@@ -1,4 +1,4 @@
-"""Second example from https://typer.tiangolo.com/tutorial/first-steps/"""
+"""See https://typer.tiangolo.com/tutorial/first-steps/"""
 
 # Let's add a CLI argument (or 2)
 

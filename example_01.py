@@ -1,4 +1,4 @@
-"""First example from https://typer.tiangolo.com/tutorial/first-steps/"""
+"""See https://typer.tiangolo.com/tutorial/first-steps/"""
 
 # The simplest Typer file...
 

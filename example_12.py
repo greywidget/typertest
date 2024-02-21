@@ -3,7 +3,7 @@ from typing import Optional
 import typer
 from typing_extensions import Annotated
 
-"""Another example based on https://typer.tiangolo.com/tutorial/arguments/optional/"""
+"""See https://typer.tiangolo.com/tutorial/arguments/optional/"""
 
 # Optional CLI Arguments
 # Remember that by default:
