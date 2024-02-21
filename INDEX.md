@@ -35,3 +35,4 @@ There examples are from the [excellent Typer documentation](https://typer.tiango
 - [CLI option with Hidden Default](example_27.py)
 - [CLI option - make it Required](example_28.py)
 - [CLI option Prompt](example_29.py)
+- [CLI option with Customised Prompt](example_30.py)
