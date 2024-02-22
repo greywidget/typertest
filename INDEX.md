@@ -66,3 +66,5 @@ I noticed that `--help` for an explicit application shows `--install-completion`
 - [Command Deprecation](example_49.py)
 - [Command Add formatting with Rich Markup](example_50.py)
 - [Command Add formatting with Rich Markdown](example_51.py)
+- [Command Help Panels for Commands](example_52.py)
+- [Command Help Panels for CLI Parameters](example_53.py)
