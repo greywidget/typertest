@@ -52,3 +52,4 @@ This section also introduced the `click Context` which you get access to by decl
 - [CLI option - accessing the `CallbackParam` object](example_39.py)
 - [CLI option - first version of `--version`](example_40.py)
 - [CLI option - showing the flaw in first `--version`](example_41.py)
+- [CLI option - a better version of `--version`](example_41.py)
