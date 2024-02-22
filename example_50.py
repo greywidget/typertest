@@ -3,9 +3,11 @@ from typing_extensions import Annotated
 
 """See https://typer.tiangolo.com/tutorial/commands/help/"""
 
-# Rich Markdown and Markup
+# Rich Markup
 # If you have Rich installed you can configure your app to enable
 # markup text with the parameter `rich_markup_mode`
+# NB Rich Markup is rich's font colours and attributes
+# (As opposed to Rich Markdown which relates to Markdown)
 
 # Checkout https://rich.readthedocs.io/en/stable/markup.html
 
