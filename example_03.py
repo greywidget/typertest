@@ -8,6 +8,9 @@
 # - A CLI argument is required
 # - A CLI option is optional
 
+# Parameters of type `bool` are automatically interpreted as CLI options
+# rather than CLI arguments
+
 # Also
 # - CLI arguments depend on the sequence order
 # - CLI options start with -- and don't depend on the order
