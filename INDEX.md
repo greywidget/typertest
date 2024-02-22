@@ -50,4 +50,5 @@ At this point in the tutorial there were examples about TAB completion using `ty
 This section also introduced the `click Context` which you get access to by declaring a function parameter of type `typer.Context`. I expect this will be revisited with later examples.
 
 - [CLI option - accessing the `CallbackParam` object](example_39.py)
-- [CLI option - first verstion of `--version`](example_40.py)
+- [CLI option - first version of `--version`](example_40.py)
+- [CLI option - showing the flaw in first `--version`](example_41.py)
