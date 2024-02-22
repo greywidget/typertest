@@ -58,4 +58,5 @@ This section also introduced the `click Context` which you get access to by decl
 
 I noticed that `--help` for an explicit application shows `--install-completion` and `--show-completion`. I'm not currently using completion as I had issues so it might be nice if those options could be hidden.
 
-- [Commands - a CLI application with multiple commants](example_44.py)
+- [Commands - a CLI application with multiple commands](example_44.py)
+- [Command CLI Arguments](example_45.py)
