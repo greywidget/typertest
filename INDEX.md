@@ -64,3 +64,4 @@ I noticed that `--help` for an explicit application shows `--install-completion`
 - [Command Help](example_47.py)
 - [Command Help - Overwriting it](example_48.py)
 - [Command Deprecation](example_49.py)
+- [Command Add formatting with Rich Markup and Markdown](example_50.py)
