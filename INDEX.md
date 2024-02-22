@@ -44,3 +44,9 @@ There examples are from the [excellent Typer documentation](https://typer.tiango
 - [CLI option with Short Name and Default Name](example_36.py)
 - [CLI option with multiple Short Names Together](example_37.py)
 - [CLI option with Callback for validation](example_38.py)
+
+At this point in the tutorial there were examples about TAB completion using `typer-cli`. Although I followed the instructions, I couldn't get this to work on Windows or Mac so I'm leaving it out for now. Note if you install it and run `typer --install-completion`, it will alter your `powershell` or `zsh` startup.
+
+This section also introduced the `click Context` which you get access to by declaring a function parameter of type `typer.Context`. I expect this will be revisited with later examples.
+
+- [CLI option - accessing the `CallbackParam` object](example_39.py)
