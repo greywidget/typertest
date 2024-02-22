@@ -62,3 +62,4 @@ I noticed that `--help` for an explicit application shows `--install-completion`
 - [Command CLI Arguments](example_45.py)
 - [Command Options (and Command CLI Arguments)](example_46.py)
 - [Command Help](example_47.py)
+- [Command Help - Overwriting it](example_48.py)
