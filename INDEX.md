@@ -70,3 +70,4 @@ I noticed that `--help` for an explicit application shows `--install-completion`
 - [Command Help Panels for CLI Parameters](src/example_53.py)
 - [Command Help - add an Epilog](src/example_54.py)
 - [Command Custom Name](src/example_55.py)
+- [Command Callback for main CLI parameters](src/example_56.py)
