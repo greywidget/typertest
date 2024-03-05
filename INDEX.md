@@ -73,3 +73,4 @@ I noticed that `--help` for an explicit application shows `--install-completion`
 - [Command Callback for main CLI parameters](src/example_56.py)
 - [Command Callback on Creation](src/example_57.py)
 - [Command Callback - Overriding Callback](src/example_58.py)
+- [Command Callback - Only for documentation](src/example_59.py)
