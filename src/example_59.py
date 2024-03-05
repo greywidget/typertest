@@ -9,6 +9,8 @@ Adding a callback only for documentation
 
 This can be convenient especially if you have several lines of text, as the
 indentation will be handled automatically for you.
+
+Now the callback will be used mainly to extract the docstring for the help text
 """
 
 
