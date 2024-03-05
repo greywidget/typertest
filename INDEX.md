@@ -75,3 +75,4 @@ I noticed that `--help` for an explicit application shows `--install-completion`
 - [Command Callback - Overriding Callback](src/example_58.py)
 - [Command Callback - Only for documentation](src/example_59.py)
 - [Command One or Multiple Commands - One](src/example_60.py)
+- [Command One or Multiple Commands - Multiple](src/example_61.py)
