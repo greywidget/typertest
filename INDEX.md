@@ -79,3 +79,4 @@ I noticed that `--help` for an explicit application shows `--install-completion`
 - [Command One or Multiple Commands - One as a command/subcommand](src/example_62.py)
 - [Command One or Multiple Commands - One with callback documentation](src/example_63.py)
 - [Command Context - how to access it](src/example_64.py)
+- [Command Context - executable callback](src/example_65.py)
