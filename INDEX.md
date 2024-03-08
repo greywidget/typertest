@@ -83,3 +83,5 @@ I noticed that `--help` for an explicit application shows `--install-completion`
 - [Command Context - exclusive executable callback](src/example_66.py)
 - [Command Context - configuring the context](src/example_67.py)
 ### Parameter Types
+- [Parameter Types - intro](src/example_68.py)
+- [Parameter Types - validation: min and max](src/example_69.py)
