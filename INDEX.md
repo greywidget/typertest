@@ -85,3 +85,4 @@ I noticed that `--help` for an explicit application shows `--install-completion`
 ### Parameter Types
 - [Parameter Types - intro](src/example_68.py)
 - [Parameter Types - validation: min and max](src/example_69.py)
+- [Parameter Types - clamping numbers](src/example_70.py)
