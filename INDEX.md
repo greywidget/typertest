@@ -88,4 +88,5 @@ I noticed that `--help` for an explicit application shows `--install-completion`
 - [Parameter Types - clamping numbers](src/example_70.py)
 - [Parameter Types - Counter CLI options](src/example_71.py)
 - [Parameter Types - Boolean CLI options. Customise name to disable --no-something](src/example_72.py)
-- [Parameter Types - Boolean CLI options. Customise name e.g. --accept and --reject](src/example_73.py)
+- [Parameter Types - Boolean CLI options. Alternate names e.g. --accept and --reject](src/example_73.py)
+- [Parameter Types - Boolean CLI options. Short names e.g. -f and -F](src/example_74.py)
