@@ -91,3 +91,4 @@ I noticed that `--help` for an explicit application shows `--install-completion`
 - [Parameter Types - Boolean CLI options. Alternate names e.g. --accept and --reject](src/example_73.py)
 - [Parameter Types - Boolean CLI options. Short names e.g. -f and -F](src/example_74.py)
 - [Parameter Types - Boolean CLI options. Only names for False](src/example_75.py)
+- [Parameter Types - UUID CLI options](src/example_76.py)
