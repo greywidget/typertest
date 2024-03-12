@@ -93,3 +93,4 @@ I noticed that `--help` for an explicit application shows `--install-completion`
 - [Parameter Types - Boolean CLI options. Only names for False](src/example_75.py)
 - [Parameter Types - UUID CLI options](src/example_76.py)
 - [Parameter Types - datetime CLI options default formats](src/example_77.py)
+- [Parameter Types - datetime CLI options custom formats](src/example_78.py)
