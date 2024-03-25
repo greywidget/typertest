@@ -98,3 +98,4 @@ I noticed that `--help` for an explicit application shows `--install-completion`
 - [Parameter Types - Enum CLI options Case Insensitive](src/example_80.py)
 - [Parameter Types - Enum CLI options List of Values](src/example_81.py)
 - [Parameter Types - Path CLI options](src/example_82.py)
+- [Parameter Types - Path CLI validations](src/example_83.py)
