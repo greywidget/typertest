@@ -100,3 +100,4 @@ I noticed that `--help` for an explicit application shows `--install-completion`
 - [Parameter Types - Path CLI options](src/example_82.py)
 - [Parameter Types - Path CLI validations](src/example_83.py)
 - [Parameter Types - File CLI FileText reading](src/example_84.py)
+- [Parameter Types - File CLI FileText writing](src/example_85.py)
