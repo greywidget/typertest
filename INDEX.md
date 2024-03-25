@@ -96,3 +96,4 @@ I noticed that `--help` for an explicit application shows `--install-completion`
 - [Parameter Types - datetime CLI options custom formats](src/example_78.py)
 - [Parameter Types - Enum CLI options for predefined choices](src/example_79.py)
 - [Parameter Types - Enum CLI options Case Insensitive](src/example_80.py)
+- [Parameter Types - Enum CLI options List of Values](src/example_81.py)
