@@ -105,3 +105,4 @@ I noticed that `--help` for an explicit application shows `--install-completion`
 - [Parameter Types - File CLI FileBinaryWrite](src/example_87.py)
 - [Parameter Types - File CLI File Advanced Parameters](src/example_88.py)
 - [Parameter Types - File CLI Custom Type - with Type Parser](src/example_89.py)
+- [Parameter Types - File CLI Custom Type - with Click Custom Type](src/example_90.py)
