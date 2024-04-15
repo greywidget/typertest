@@ -106,3 +106,13 @@ I noticed that `--help` for an explicit application shows `--install-completion`
 - [Parameter Types - File CLI File Advanced Parameters](src/example_88.py)
 - [Parameter Types - File CLI Custom Type - with Type Parser](src/example_89.py)
 - [Parameter Types - File CLI Custom Type - with Click Custom Type](src/example_90.py)
+
+## SubCommands
+### Example 1 with separate files:
+The core idea is to add a `typer.Typer()` app inside another.  
+We start with a small app to manage items. Then we find we need to manage users. So we create a third app to tie them together:
+- [manage items](src/items.py)
+- [manage users](src/users.py)
+- [An app to tie both things together](src/app1.py)
+
+note that we are composing here. `items.py` and `users.py` work as both individual apps and as command groups for `app1.py`
